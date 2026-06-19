@@ -129,8 +129,8 @@ const SERVICES = [
   },
   {
     icon: Snowflake,
-    title: "Climatisation & diagnostic",
-    desc: "Recharge A/C, diagnostic électronique et entretien préventif pour rouler confortablement, en toute saison.",
+    title: "Entretien & diagnostic",
+    desc: "Vidange, climatisation, diagnostic électronique et entretien préventif pour rouler en toute confiance, saison après saison.",
     img: "/images/service-3.webp",
   },
 ];
